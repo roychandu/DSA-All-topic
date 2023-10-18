@@ -18,7 +18,7 @@ int Pivot(int arr[], int size){
 }
 
 int main(){
-    int arr[] = {4, 5, 6, 7, 1, 2, 3};
+    int arr[] = {3, 4, 5, 6, 7, 1, 2};
     int Pivot_Index = Pivot(arr, 7);
     cout<<Pivot_Index; 
 }
