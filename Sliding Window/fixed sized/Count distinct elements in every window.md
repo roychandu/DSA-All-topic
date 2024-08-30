@@ -7,7 +7,7 @@ Given an array of integers and a number K. Find the count of distinct elements i
 
 ### C++ Solution
 
-```
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 
