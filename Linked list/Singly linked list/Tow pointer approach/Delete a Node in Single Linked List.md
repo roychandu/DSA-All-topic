@@ -1,6 +1,6 @@
 ## Problem Statement
 
-Given a singly linked list and an integer, x. Delete the ~X~th node (1-based indexing) from the singly linked list.
+Given a singly linked list and an integer, x. Delete the x<sup>th</sup> node (1-based indexing) from the singly linked list.
 
 ### for better understading
 - Problem link : [Delete a Node in Single Linked List](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1?page=1&category=Linked%20List&status=solved&sortBy=difficulty)
